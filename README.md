@@ -28,3 +28,7 @@ make -j{value you got from nproc}
 ```
 The `nproc` part is not required, but is recommended, as it speeds up builds significantly. If you're not using `nproc`, just omit the -j parameter altogether.
 agbcc is already installed into the repo.
+
+# Credits
+- pret, for the decompilation
+- RHH (ROM Hacking Hideout), for pokeemerald-expansion, a improved version of pret's decomp featuring Gen 1-9 Pokémon, an improved battle engine, and lots more
