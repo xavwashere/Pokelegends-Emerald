@@ -58,4 +58,5 @@ gText_Birch_AreYouReady::
 	.string "adventure, and friendships await!\p"
 	.string "Well, I'll be expecting you later.\n"
 	.string "Come see me in my POKéMON LAB.\p"
+	.string "Enjoy POKéLEGENDS EMERALD!"
 	.string "$"
