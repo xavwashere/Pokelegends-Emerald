@@ -19,7 +19,7 @@ Just `cd` into `pokeemerald-expansion` and run `make`.
 Here's a full command:
 ```
 sudo apt install build-essential binutils-arm-none-eabi git libpng-dev
-git clone https://github.com/xavwashere/Pokelegends-Emerald
+git clone https://github.com/xavwashere/Pokelegends-Emerald.git
 cd Pokelegends-Emerald
 python3 randomizer.py
 cd pokeemerald-expansion
